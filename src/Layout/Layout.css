@@ -1,0 +1,9 @@
+.wrapperLayout {
+  min-height: -webkit-fill-available;
+}
+
+@media (min-width: 768px) {
+  .wrapperLayout {
+    min-height: 100vh;
+  }
+}
