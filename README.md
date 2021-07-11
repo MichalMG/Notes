@@ -22,5 +22,5 @@
     
 ### Mobile:  
 
-  <img src="https://github.com/MichalMG/Notes/blob/main/Screenshots/mobile.jpg" width= '49%' /> <img src="https://github.com/MichalMG/Notes/blob/main/Screenshots/mobile2.jpg"  />
+  <img src="https://github.com/MichalMG/Notes/blob/main/Screenshots/mobile.jpg"/> <img src="https://github.com/MichalMG/Notes/blob/main/Screenshots/mobile2.jpg"  />
   
