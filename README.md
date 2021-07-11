@@ -16,11 +16,11 @@
 
 # Screenshots
 
-## Desktop: 
+### Desktop: 
 
 <img src="https://github.com/MichalMG/Notes/blob/main/Screenshots/desktop.jpg" /> <img src="https://github.com/MichalMG/Notes/blob/main/Screenshots/desktop2.jpg" />
     
-## Mobile:  
+### Mobile:  
 
   <img src="https://github.com/MichalMG/Notes/blob/main/Screenshots/mobile.jpg" width= '49%' /> <img src="https://github.com/MichalMG/Notes/blob/main/Screenshots/mobile2.jpg" width= '49%' />
   
